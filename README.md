@@ -80,3 +80,4 @@ Default admin credentials for local dev: `admin@acme-local.dev` / `changeme123` 
 ## Contributing
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) before opening a pull request. All platform team members must follow branch naming, commit message, and review requirements described there.
+
